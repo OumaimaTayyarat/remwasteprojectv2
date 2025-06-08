@@ -6,7 +6,7 @@ import SkipCards from "../components/SkipCard/SkipCard";
 function Shop() {
   return (
     <div>
-      <ProductModel />
+      <ProductModel/>
       <SkipCards/>  
     </div>
   );
