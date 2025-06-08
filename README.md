@@ -1,4 +1,4 @@
-# ♻️ RemWasteProjectV2 - Eco-Friendly E-commerce with 3D Product Models
+# ♻️ RemWasteProjectV2 - Eco-Friendly E-commerce with 3D Model
 
 ## 🎯 Project Description
 
