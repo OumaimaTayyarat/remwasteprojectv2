@@ -1,12 +1,12 @@
-import Hero from "../components/ShopIntro/ProductModel";
-import SkipCard from "../components/SkipCard/SkipCard";
+import ProductModel from "../components/ShopIntro/ProductModel";
+import SkipCards from "../components/SkipCard/SkipCard";
 
 
 
 function Shop() {
   return (
     <div>
-      <Hero />
+      <ProductModel />
       <SkipCard/>  
     </div>
   );
