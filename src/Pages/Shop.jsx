@@ -7,7 +7,7 @@ function Shop() {
   return (
     <div>
       <ProductModel />
-      <SkipCard/>  
+      <SkipCards/>  
     </div>
   );
 }
