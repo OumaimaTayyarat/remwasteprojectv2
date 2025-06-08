@@ -1,0 +1,23 @@
+*{
+  margin:0 ;
+}
+
+
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: black;
+
+
+
+}
+.scrollbar-hide {
+  scrollbar-width: none;        /* Firefox */
+  -ms-overflow-style: none;     /* IE 10+ */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;                /* Chrome, Safari */
+}
+
