@@ -600,6 +600,7 @@ const SkipCards = () => {
             .skip-container {
               gap: 1.5rem;
             }
+
             
             .card {
               width: 260px;
@@ -625,7 +626,17 @@ const SkipCards = () => {
             .descriptions {
               padding: 12px;
             }
-            
+          .disclaimer {
+            font-size: 18px;
+   
+            }
+          .skip-title,
+          .skip-price,
+          .skip-period {
+            font-size: 16px;
+          }
+
+                      
             .title {
               font-size: 13px;
             }
@@ -663,6 +674,15 @@ const SkipCards = () => {
             .card {
               width: min(280px, 90vw);
               height: 330px;
+            }
+            .disclaimer {
+            font-size: 14px;
+   
+          }
+            .skip-title,
+            .skip-price,
+            .skip-period {
+              font-size: 13px;
             }
 
             .selection-footer {
